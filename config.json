@@ -1,0 +1,7 @@
+{
+    "url_to_monitor": "https://httpbin.org/uuid",
+    "sleep_duration": 5,
+    "pg_uri": "postgres://avnadmin:hx3a257t95wpn7i1@pg-20a9a7ba-ab-b1c2.aivencloud.com:21774/exercise1?sslmode=require",
+    "kafka_bootstrap": "kafka-2f6b3565-ab-b1c2.aivencloud.com:21776",
+    "kafka_topic": "exercise1"
+}
